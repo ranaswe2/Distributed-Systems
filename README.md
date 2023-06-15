@@ -1,4 +1,4 @@
-# Distributed-Systems
+# Event Management System
 
 
 ## Instructions
